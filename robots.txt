@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://sapphirehoneyquest.com/sitemap.xml
+Sitemap: https://royalempiresaga.com/sitemap.xml
